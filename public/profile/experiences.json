@@ -1,33 +1,42 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Blockchain Developer",
+            "subtitle": "Pressply Ltd, etc",
+            "workType": "Part-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Taken part in development of large crypto freelancing platform like Frontier.",
+                "Worked on 10 NFT projects and several dapp, defi projects."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2019 – Present"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "INTERSOG Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on 3+ 3D/2D web game using Unity, Three.js, Canvas, WebGL",
+                "Worked on 5+ projects using MERN stack."
+            ],
+            "dateText": "01/2018 – 09/2019"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "NRI Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Worked on 10+ projects using MERN stack."
+            ],
+            "dateText": "07/2016 – 01/2018"
         },
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "VMO Ltd",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03/2015 – 07/2016"
         }
     ]
 }

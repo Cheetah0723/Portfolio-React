@@ -105,6 +105,19 @@ section.timeline-card-content div.card-description > p {
   margin-top: 60px;
 }
 
+.profile-pic {
+  width: 100%;
+}
+
+.carousel-items {
+  padding-bottom: 20px;
+}
+
+
+.carousel-items img {
+  width: 95%;
+}
+
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
 

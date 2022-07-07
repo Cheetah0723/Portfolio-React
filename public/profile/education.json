@@ -1,19 +1,24 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
+            "title": "April 2010 - March 2013",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardSubtitle":"Kyoto University, Kyoto",
+            "cardDetailedText": "CGPA - 7.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+                "src": "images/education/Kyoto_University.png"
+            }            
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "April 2013 - March 2014",
+            "cardTitle": "Full-Stack, Web development",
+            "cardSubtitle":"Kyoto University, Kyoto",
+            "cardDetailedText": "CGPA - 7.6"           
         }
+    ],
+    "carousel" : [
+        "images/education/kyotouniversity.png",
+        "images/education/kyotouniversitygate.png",
+        "images/education/kyotouniversitybuild.png"
     ]
 }
