@@ -1,6 +1,15 @@
 {
     "experiences": [
         {
+            "title": "Web & Blockchain Developer",
+            "subtitle": "RoqqetMedia Ltd",
+            "workType": "Part-time",
+            "workDescription": [
+                "Worked on 2 NFT projects and one wordpress project."
+            ],
+            "dateText": "04/2022 – Present"
+        },
+        {
             "title": "Blockchain Developer",
             "subtitle": "Pressply Ltd, etc",
             "workType": "Part-time",
@@ -8,7 +17,7 @@
                 "Taken part in development of large crypto freelancing platform like Frontier.",
                 "Worked on 10 NFT projects and several dapp, defi projects."
             ],
-            "dateText": "09/2019 – Present"
+            "dateText": "09/2019 – 03/2022"
         },
         {
             "title": "Web Developer",
