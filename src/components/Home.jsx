@@ -34,6 +34,10 @@ function Home() {
   }, []);
 
   return data ? (
+    <>
+    <video autoPlay loop muted>
+        <source src="./images/video2.mp4" type="video/mp4" />
+    </video>
     <Fade>
       <div style={styles.mainContainer}>
         <h1 style={styles.nameStyle}>{data?.name}</h1>
@@ -50,6 +54,7 @@ function Home() {
         <Social />
       </div>
     </Fade>
+    </>
   ) : (
     <FallbackSpinner />
   );
