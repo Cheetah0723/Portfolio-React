@@ -52,9 +52,9 @@ const ProjectCard = (props) => {
         <Card.Img variant="top" src={project?.image} />
         <Card.Body>
           <Card.Title style={styles.cardTitleStyle}>{project.title}</Card.Title>
-          <Card.Text style={styles.cardTextStyle}>
+          <div style={styles.cardTextStyle}>
             {parseBodyText(project.bodyText)}
-          </Card.Text>
+          </div>
         </Card.Body>
 
         <Card.Body>

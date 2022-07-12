@@ -3,15 +3,15 @@
         {
             "image" : "images/projects/profile.png",
             "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support.\n - Deployed on Netlify.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Cheetah0723/Portfolio-React"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://iyuki.me"
                 }
             ],
             "tags" : [
@@ -22,160 +22,121 @@
         },
         {
             "image" : "images/projects/frontier.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Frontier-Freelancing app",
+            "bodyText": "- A Crypto Freelancing Platform & Social App made using **Next.js**, **Solidity** and **Node.js** for developers.\n - Added User authentication and password reset using **JWT** and **Wallet verification**.\n - People can hire developers and easily pay with several payments and crypto.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Cheetah0723/Frontier"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Next.js",
+                "Node.js",
+                "MongoDB",
+                "Web3.js",
+                "Solidity"
             ]
         },
         {
             "image" : "images/projects/iwantto.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Axxces - Crypto Learning App",
+            "bodyText": "- Crypto Learning Platform made using using **Wordpress**\n - Added User authentication and password reset.\n - People can learn everything you need to know about trading Forex, Cryptocurrency, Metaverse, NFT's blockchain and more.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Cheetah0723/"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://iwanttobeafounder.com/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "Wordpress"
             ]
         },
         {
             "image" : "images/projects/lotusvan.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Lotusvancouver -  Car Website",
+            "bodyText": "- Lotusvancouver is Car Website people can buy and rent cars.\n - Large car site integrated many small car companies in Canada.\n - Charge in frontend and backend development with IT company team.",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://lotusvancouver.com/"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "React.js",
+                "Node.js",
+                "MongoDB"
             ]
         },
         {
             "image" : "images/projects/mooningmonkey.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "MooningMonkey -  NFT minting App",
+            "bodyText": "- MooningMonkey made using **ERCA-721** for **MooningMonkey** buyers.\n - Charge in Art generation.\n - Charge in Smart Contract development.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Cheetah0723/NFT-MoonMonkey"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "http://mooningmonkey.com"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "React.js",
+                "Node.js",
+                "Web3.js",
+                "Solidity"
             ]
         },
         {
             "image" : "images/projects/casino.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Crime Casino -  Betting App",
+            "bodyText": "- Crime Casino made using **Solana** for **Crime** NFT buyers. NFT holders get rewarded from this game.\n - Charge in frontend development and randoom function implement.\n - Charge in smart contract in development using Rust",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Cheetah0723/Casino-NFT"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "React.js",
+                "Web3.js",
+                "Rust"
             ]
         },
         {
             "image" : "images/projects/quidverse.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Quidverse -  NFT minting App",
+            "bodyText": "- Quidverse made using **ERC-721** for **Quidverse** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n - Charge in smart contract development",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Cheetah0723/NFT-quidverse"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "http://quidverse.com"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "React.js",
+                "Web3.js",
+                "Solidity"
             ]
         },
         {
             "image" : "images/projects/seven.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Seven22 - NFT minting App",
+            "bodyText": "- Seven22 made using **ERCA-721** for **Seven22** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/Cheetah0723/"
                 }
             ],
             "tags" : [

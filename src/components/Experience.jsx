@@ -56,9 +56,9 @@ function Experience(props) {
                 lineColor={theme.timelineLineColor}
               >
                 {data.map((item) => (
-                  <Fade>
+                  <Fade key={item.title + item.dateText}>
                     <TimelineItem
-                      key={item.title + item.dateText}
+                      
                       dateText={item.dateText}
                       dateInnerStyle={{ background: theme.accentColor }}
                       style={styles.itemStyle}

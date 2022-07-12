@@ -49,9 +49,9 @@ function Education(props) {
               <Carousel>
                 {data.carousel.map((image) =>
                   image ? (
-                    <Carousel.Item>
-                      <div className="carousel-items">
-                        <img key={image} src={image} alt={image} />
+                    <Carousel.Item key={image}>
+                      <div className="carousel-items" >
+                        <img  src={image} alt={image} />
                       </div>
                     </Carousel.Item>
                   ) : null
@@ -74,9 +74,8 @@ function Education(props) {
               >
                 {data.education.map((education) =>
                   education.icon ? (
-                    <div className="chrono-icons">
+                    <div className="chrono-icons" key={education.icon.src}>
                       <img
-                        key={education.icon.src}
                         src={education.icon.src}
                         alt={education.icon.alt}
                       />
