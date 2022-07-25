@@ -21,6 +21,27 @@
             ]
         },
         {
+            "image" : "images/projects/killergf.png",
+            "title": "KillerGF Run Game",
+            "bodyText": "- KillerGF NFT Website made in React\n -  KillerGF Running Game\n - Hyper Casual Game made in Unity, C# and Node server\n - Deployed on AWS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Killer-GF"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://killergf.com/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Node.js",
+                "Unity",
+                "C#"
+            ]
+        },
+        {
             "image" : "images/projects/frontier.png",
             "title": "Frontier-Freelancing app",
             "bodyText": "- A Crypto Freelancing Platform & Social App made using **Next.js**, **Solidity** and **Node.js** for developers.\n - Added User authentication and password reset using **JWT** and **Wallet verification**.\n - People can hire developers and easily pay with several payments and crypto.",
