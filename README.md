@@ -519,11 +519,11 @@ All customizable files are inside the `public/` folder, organised mainly into `p
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Cheetah0723"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://iyuki.info"
                 }
             ],
             "tags" : [
@@ -538,7 +538,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/Cheetah0723"
                 }
             ],
             "tags" : [
@@ -558,7 +558,7 @@ All customizable files are inside the `public/` folder, organised mainly into `p
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/Cheetah0723"
                 }
             ],
             "tags" : [
