@@ -96,7 +96,7 @@
         {
             "image" : "images/projects/mooningmonkey.png",
             "title": "MooningMonkey -  NFT minting App",
-            "bodyText": "- MooningMonkey made using **ERCA-721** for **MooningMonkey** buyers.\n - Charge in Art generation.\n - Charge in Smart Contract development.",
+            "bodyText": "- MooningMonkey made using **ERC-721A** for **MooningMonkey** buyers.\n - Charge in Art generation.\n - Charge in Smart Contract development.",
             "links": [
                 {
                     "text": "GitHub",
@@ -153,11 +153,15 @@
         {
             "image" : "images/projects/seven.png",
             "title": "Seven22 - NFT minting App",
-            "bodyText": "- Seven22 made using **ERCA-721** for **Seven22** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n",
+            "bodyText": "- Seven22 made using **ERC-721A** for **Seven22** NFT buyers. NFT holders get rewarded from staking.\n - Charge in frontend and web3 integration.\n",
             "links": [
                 {
                     "text": "GitHub",
                     "href": "https://github.com/Cheetah0723/"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://seven22.io"
                 }
             ],
             "tags" : [
