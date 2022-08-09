@@ -107,6 +107,10 @@
                     "title": "Unity"
                 },
                 {
+                    "icon": "images/skills/unreal.png",
+                    "title": "Unreal Engine"
+                },
+                {
                     "icon": "images/skills/three.png",
                     "title": "ThreeJs"
                 },
