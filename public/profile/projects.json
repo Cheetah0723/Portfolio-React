@@ -42,6 +42,21 @@
             ]
         },
         {
+            "image" : "images/projects/3_Match.png",
+            "title": "Pet Crush",
+            "bodyText": "- Pet Crush 3 Match Game\n - 3 Match Game made in Unity, C#\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.1001games.com/match-3/pet-crush"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "C#"
+            ]
+        },
+        {
             "image" : "images/projects/frontier.png",
             "title": "Frontier-Freelancing app",
             "bodyText": "- A Crypto Freelancing Platform & Social App made using **Next.js**, **Solidity** and **Node.js** for developers.\n - Added User authentication and password reset using **JWT** and **Wallet verification**.\n - People can hire developers and easily pay with several payments and crypto.",
