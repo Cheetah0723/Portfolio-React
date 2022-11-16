@@ -4,7 +4,7 @@
             "title": "April 2010 - March 2013",
             "cardTitle": "B.Tech, Computer Science",
             "cardSubtitle":"Kyoto University, Kyoto",
-            "cardDetailedText": "CGPA - 7.5",
+            "cardDetailedText": "CGPA - 3.5",
             "icon" : {
                 "src": "images/education/Kyoto_University.png"
             }            
@@ -13,7 +13,7 @@
             "title": "April 2013 - March 2014",
             "cardTitle": "Full-Stack, Web development",
             "cardSubtitle":"Kyoto University, Kyoto",
-            "cardDetailedText": "CGPA - 7.6"           
+            "cardDetailedText": "CGPA - 3.6"           
         }
     ],
     "carousel" : [
